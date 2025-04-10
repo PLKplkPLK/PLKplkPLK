@@ -10,7 +10,7 @@ I'm especially interested in data science, AI/ML and combining data with impactf
 - Power BI, Tableau
 - ETL with SSIS
 - Git, Docker
-- MS Azure
+- Azure, AWS
 
 ### 📫 Let's connect!
 - Portfolio: [kacpermuller.pl](https://kacpermuller.pl)
