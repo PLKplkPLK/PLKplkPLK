@@ -2,7 +2,7 @@
 
 ### 🔧 Tools & Technologies I use:
 - Python (pandas, django, scikit-learn, seaborn, scipy)
-- SQL (PostgreSQL, MS SQL Server)
+- SQL (PostgreSQL)
 - Git, Docker
 - Azure, AWS
 
