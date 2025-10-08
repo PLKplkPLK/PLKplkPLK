@@ -1,10 +1,6 @@
 ## Hi, I'm Kacper 👋
 
-### 🔧 Tools & Technologies I use:
-- Python (pandas, django, scikit-learn, seaborn, scipy)
-- SQL (PostgreSQL)
-- Git, Docker
-- Azure, AWS
+Dev & Data Science
 
 ### 📫 Let's connect!
 - Portfolio: [kacpermuller.pl](https://kacpermuller.pl)
