@@ -1,6 +1,6 @@
 ## Hi, I'm Kacper 👋
 
-Dev & Data Science & Cybersecurity
+Dev, cybersecurity and data science
 
 ### 📫 Let's connect!
 - Portfolio: [kacpermuller.pl](https://kacpermuller.pl)
