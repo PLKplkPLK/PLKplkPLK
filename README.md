@@ -2,9 +2,7 @@
 
 Dev, cybersecurity and data science
 
-### etc
-- Portfolio: [kacpermuller.pl](https://kacpermuller.pl)
-- LinkedIn: [linkedin.com/in/kacper-m](https://www.linkedin.com/in/kacper-m/)
+[LinkedIn profile](https://www.linkedin.com/in/kacper-m/)
 
 <picture>
   <source
